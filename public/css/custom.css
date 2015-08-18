@@ -1,9 +1,9 @@
-.ProfileAvatar-image, .ProfileAvatar-placeholderImage {
-    -moz-force-broken-image-icon: 1;
-    border-radius: 8px;
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
+.Avatar-image {
+    background: #fff;
+    border: 5px solid #fff;
+    border-radius: 12px;
+    box-shadow: 0 1px 1px rgba(136,153,166,0.15);
+    height: 200px;
+    position: relative;
+    width: 200px;
 }
