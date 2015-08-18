@@ -75,6 +75,10 @@ html {
   color: #fff;
 }
 
+/* Sidebar links */
+.sidebar-footer {
+  font-size: 12px;
+}
 /* About section */
 .sidebar-about h1 {
   color: #fff;
