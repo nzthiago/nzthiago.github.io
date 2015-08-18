@@ -1,8 +1,8 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://nzthiago.github.io
+url: http://talmeida.net
 title: Thiago Almeida
-tagline: A log of everyday life
-description: I work at Microsoft on the DX TED team working with Azure, Visual Studio Online and the DevOps ninja practices they enable.<br /><br />The ideas and opinions on this site are all mine and don't reflect those of my employer or teammates. <br />
+tagline: 
+description: I work at Microsoft working with Azure, Visual Studio Online and the DevOps ninja practices they enable.<br /><br />The ideas and opinions on this site are all mine and don't reflect those of my employer or teammates. <br />
 paginate: 5
