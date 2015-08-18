@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://talmeida.net
 title: Thiago Almeida
 tagline: 
-description: I work at Microsoft working with Azure, Visual Studio Online and the DevOps ninja practices they enable.<br /><br />The ideas and opinions on this site are all mine and don't reflect those of my employer or teammates. <br />
+description: I work at Microsoft with Azure, Visual Studio Online and the DevOps ninja practices they enable<br />
 paginate: 5
