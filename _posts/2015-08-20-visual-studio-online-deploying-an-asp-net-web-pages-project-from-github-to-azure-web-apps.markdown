@@ -12,10 +12,9 @@ What if you want to automate the deployment of a classic ASP.NET Web Pages proje
 
 This assumes you already have a [VSO](https://www.visualstudio.com/products/what-is-visual-studio-online-vs) account and permissions to create and run build definitions.
 
-Connecting Visual Studio Online to Azure
-=============
+## Connecting Visual Studio Online to Azure
+
 
 Register your Azure subscription in VSO as described in [this](https://msdn.microsoft.com/en-us/Library/vs/alm/Build/azure/deploy-aspnet5) article.
  
-Create Build Definition
-=============
+## Create Build Definition
