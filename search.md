@@ -1,15 +1,9 @@
 ---
 layout: page
-title: Search
+title: Search my blog posts
 permalink: search/
 ---
-
-
-
-<p>What are you looking for?</p>    
-
 <input id="search" type="text" value="" class="form-control" onkeydown="if (event.keyCode == 13) doSearch()"/>
-
 <div>
 <input id="searchBtn" type="submit" class="btn" onclick="doSearch()" value="Search">
 </div>
