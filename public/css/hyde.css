@@ -91,11 +91,10 @@ html {
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
-  display: inline;
   list-style-type: none;
 }
 .sidebar-nav-item {
-  display: block;
+  display: inline;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
