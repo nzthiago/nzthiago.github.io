@@ -5,11 +5,11 @@ permalink: search/
 ---
 <p>Search the blog posts:</p>    
 
-<input id="search" type="text" value="" onkeydown="if (event.keyCode == 13) doSearch()"/>
-<div>
-<input id="searchBtn" type="submit" onclick="doSearch()" value="Search">
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
 </div>
 
-<div id="output"></div>
-
-<script type="text/javascript" src="{{ site.url }}public/js/search-min.js"></script>
+<!-- Script pointing to jekyll-search.js -->
+<script src="{{ site.url }}/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
