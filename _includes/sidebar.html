@@ -10,6 +10,9 @@
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
       </li>
+      <li class="sidebar-nav-item{% if page.title == "Search" %} active{% endif %}">
+        <a href="/Search/">Search</a>
+      </li>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -38,13 +41,6 @@
       <a class="github-button" href="https://github.com/nzthiago" data-count-href="/nzthiago/followers" data-count-api="/users/nzthiago#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @nzthiago on GitHub">Follow @nzthiago</a>
       <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
     </p>
-    
-    <p>Search:</p>
-      <input id="search" type="text" value="" class="form-control" onkeydown="if (event.keyCode == 13) doSearch()">
-      <input id="searchBtn" type="submit" class="btn" onclick="doSearch()" value="Search">
-      <script type="text/javascript" src="/public/js/search-min.js"></script>
-      
-    <div id="output"></div>   
     <div class="sidebar-footer">
       <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.<br>
       Powered by <a href="http://tinypress.co" target="_blank">tinypress.co</a></p>
