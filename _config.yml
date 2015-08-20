@@ -7,4 +7,4 @@ tagline:
 description: I work at Microsoft with Azure, Visual Studio Online and the DevOps ninja practices they enable<br />
 paginate: 5
 gems:
-  - Simple-Jekyll-Search
+  - jekyll-sitemap
