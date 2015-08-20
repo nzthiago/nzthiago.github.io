@@ -1,9 +1,8 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://talmeida.net
+url: http://talmeida.net/
 title: Thiago Almeida
 tagline: 
 description: I work at Microsoft with Azure, Visual Studio Online and the DevOps ninja practices they enable<br />
 paginate: 5
-baseurl: /project-name

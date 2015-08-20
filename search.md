@@ -12,4 +12,4 @@ permalink: search/
 
 <div id="output"></div>
 
-<script type="text/javascript" src="{{ site.baseurl }}public/js/search-min.js"></script>
+<script type="text/javascript" src="{{ site.url }}public/js/search-min.js"></script>
