@@ -20,6 +20,6 @@ You need your Publish Settings profile file from your Azure subscription. Here's
  
 * You can also use the [Azure PowerShell](https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/) commands to help get to the download page: ``` PS> Get-AzurePublishSettingsFile ```
 
-
+Once you have your publish settings file head to your project in VSO (````https://{youraccount}.visualstudio.com/DefaultCollection/{yourteamproject}````), click on the settings gear icon in the upper right corner, select the Services tab and click Add new Azure Subscription link on the top left.
 
 ## Create Build Definition
