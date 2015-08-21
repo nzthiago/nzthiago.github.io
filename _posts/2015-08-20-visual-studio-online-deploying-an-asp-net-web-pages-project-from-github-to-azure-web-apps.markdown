@@ -20,7 +20,6 @@ You need your Publish Settings profile file from your Azure subscription. Here's
  
 * You can also use the [Azure PowerShell](https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/) commands to help get to the download page: ``` PS> Get-AzurePublishSettingsFile ```
 
-:thumbsup:
 
 
 ## Create Build Definition
